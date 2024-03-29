@@ -1,0 +1,93 @@
+2024-03-16 11:36:32.2269 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-16 11:36:32.9226 DEBUG Hosting starting
+2024-03-16 11:36:35.3057 DEBUG Unable to locate an appropriate development https certificate.
+2024-03-16 11:37:52.0920 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-16 11:37:52.5752 DEBUG Hosting starting
+2024-03-16 11:37:53.4878 DEBUG Using development certificate: CN=localhost (Thumbprint: 2132285ED9A732A96AEB8B0AF48EDDF46FF65863)
+2024-03-16 11:37:53.7314 INFO Now listening on: https://localhost:7219
+2024-03-16 11:37:53.7314 INFO Now listening on: http://localhost:5233
+2024-03-16 11:37:53.7314 DEBUG Loaded hosting startup assembly MyCompany
+2024-03-16 11:37:53.7314 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-16 11:37:53.7314 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-16 11:37:53.7314 INFO Application started. Press Ctrl+C to shut down.
+2024-03-16 11:37:53.7336 INFO Hosting environment: Development
+2024-03-16 11:37:53.7336 INFO Content root path: C:\Users\Korisnik\source\repos\MyCompany\MyCompany\
+2024-03-16 11:37:53.7336 DEBUG Hosting started
+2024-03-16 11:37:53.9073 DEBUG Connection id "0HN25KKHG4QVP" received FIN.
+2024-03-16 11:37:53.9073 DEBUG Connection id "0HN25KKHG4QVO" received FIN.
+2024-03-16 11:37:53.9472 DEBUG Connection id "0HN25KKHG4QVP" accepted.
+2024-03-16 11:37:53.9471 DEBUG Connection id "0HN25KKHG4QVO" accepted.
+2024-03-16 11:37:53.9472 DEBUG Connection id "0HN25KKHG4QVO" started.
+2024-03-16 11:37:53.9472 DEBUG Connection id "0HN25KKHG4QVP" started.
+2024-03-16 11:37:54.0313 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:37:54.0313 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:37:54.0554 DEBUG Connection id "0HN25KKHG4QVP" stopped.
+2024-03-16 11:37:54.0554 DEBUG Connection id "0HN25KKHG4QVO" stopped.
+2024-03-16 11:37:54.0691 DEBUG Connection id "0HN25KKHG4QVO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:37:54.0691 DEBUG Connection id "0HN25KKHG4QVP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:37:58.0087 DEBUG Connection id "0HN25KKHG4QVQ" accepted.
+2024-03-16 11:37:58.1429 DEBUG Connection id "0HN25KKHG4QVQ" started.
+2024-03-16 11:38:00.3973 DEBUG Connection id "0HN25KKHG4QVQ" received FIN.
+2024-03-16 11:38:00.5440 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:38:00.5460 DEBUG Connection id "0HN25KKHG4QVQ" stopped.
+2024-03-16 11:38:00.5667 DEBUG Connection id "0HN25KKHG4QVQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:38:17.0473 DEBUG Connection id "0HN25KKHG4QVR" accepted.
+2024-03-16 11:38:17.0650 DEBUG Connection id "0HN25KKHG4QVR" started.
+2024-03-16 11:38:17.1769 DEBUG Connection id "0HN25KKHG4QVR" received FIN.
+2024-03-16 11:38:17.2187 DEBUG Connection id "0HN25KKHG4QVS" accepted.
+2024-03-16 11:38:17.2187 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:38:17.2187 DEBUG Connection id "0HN25KKHG4QVR" stopped.
+2024-03-16 11:38:17.2187 DEBUG Connection id "0HN25KKHG4QVS" started.
+2024-03-16 11:38:17.2187 DEBUG Connection id "0HN25KKHG4QVR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:38:17.2392 DEBUG Connection id "0HN25KKHG4QVS" received FIN.
+2024-03-16 11:38:17.2392 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:38:17.2392 DEBUG Connection id "0HN25KKHG4QVS" stopped.
+2024-03-16 11:38:17.2392 DEBUG Connection id "0HN25KKHG4QVS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:38:23.8527 DEBUG Connection id "0HN25KKHG4QVT" accepted.
+2024-03-16 11:38:23.8867 DEBUG Connection id "0HN25KKHG4QVT" started.
+2024-03-16 11:38:23.9280 DEBUG Connection id "0HN25KKHG4QVU" accepted.
+2024-03-16 11:38:23.9641 DEBUG Connection id "0HN25KKHG4QVT" received FIN.
+2024-03-16 11:38:23.9641 DEBUG Connection id "0HN25KKHG4QVU" started.
+2024-03-16 11:38:23.9682 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:38:23.9682 DEBUG Connection id "0HN25KKHG4QVT" stopped.
+2024-03-16 11:38:23.9834 DEBUG Connection id "0HN25KKHG4QVT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 11:38:24.0223 DEBUG Connection id "0HN25KKHG4QVU" received FIN.
+2024-03-16 11:38:24.0223 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 11:38:24.0223 DEBUG Connection id "0HN25KKHG4QVU" stopped.
+2024-03-16 11:38:24.0223 DEBUG Connection id "0HN25KKHG4QVU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 13:00:36.2570 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-16 13:00:36.7926 DEBUG Hosting starting
+2024-03-16 13:00:37.7960 DEBUG Using development certificate: CN=localhost (Thumbprint: 2132285ED9A732A96AEB8B0AF48EDDF46FF65863)
+2024-03-16 13:00:38.0262 INFO Now listening on: https://localhost:7219
+2024-03-16 13:00:38.0262 INFO Now listening on: http://localhost:5233
+2024-03-16 13:00:38.0264 DEBUG Loaded hosting startup assembly MyCompany
+2024-03-16 13:00:38.0264 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-16 13:00:38.0264 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-16 13:00:38.0264 INFO Application started. Press Ctrl+C to shut down.
+2024-03-16 13:00:38.0264 INFO Hosting environment: Development
+2024-03-16 13:00:38.0264 INFO Content root path: C:\Users\Korisnik\source\repos\MyCompany\MyCompany\
+2024-03-16 13:00:38.0264 DEBUG Hosting started
+2024-03-16 13:00:38.5812 DEBUG Connection id "0HN25M2P2S6HQ" received FIN.
+2024-03-16 13:00:38.5812 DEBUG Connection id "0HN25M2P2S6HQ" accepted.
+2024-03-16 13:00:38.5812 DEBUG Connection id "0HN25M2P2S6HQ" started.
+2024-03-16 13:00:38.8222 DEBUG Failed to authenticate HTTPS connection.
+2024-03-16 13:00:38.8753 DEBUG Connection id "0HN25M2P2S6HQ" stopped.
+2024-03-16 13:00:38.9035 DEBUG Connection id "0HN25M2P2S6HQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-16 13:00:41.6873 DEBUG Connection id "0HN25M2P2S6HR" accepted.
+2024-03-16 13:00:41.8338 DEBUG Connection id "0HN25M2P2S6HR" started.
+2024-03-16 13:00:42.8799 DEBUG Connection 0HN25M2P2S6HR established using the following protocol: Tls12
+2024-03-16 13:00:45.2762 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/index.html - -
+2024-03-16 13:00:45.7974 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-03-16 13:00:48.0923 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-03-16 13:00:51.6939 INFO Request starting HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 13:00:51.7118 DEBUG Response markup was updated to include browser refresh script injection.
+2024-03-16 13:00:51.7435 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/index.html - - - 200 - text/html;charset=utf-8 6519.1073ms
+2024-03-16 13:00:51.7475 INFO Request finished HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 53.5075ms
+2024-03-16 13:00:52.5731 INFO Request starting HTTP/2 GET https://localhost:7219/_vs/browserLink - -
+2024-03-16 13:00:55.1026 INFO Request finished HTTP/2 GET https://localhost:7219/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 2529.5915ms
+2024-03-16 13:00:55.3392 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - -
+2024-03-16 13:00:56.7307 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1391.4557ms
+2024-03-16 13:00:59.1036 DEBUG Connection id "0HN25M2P2S6HR" received FIN.
+2024-03-16 13:00:59.1292 DEBUG Connection id "0HN25M2P2S6HR" is closed. The last processed stream ID was 7.
+2024-03-16 13:00:59.1292 DEBUG Connection id "0HN25M2P2S6HR" sending FIN because: "The client closed the connection."
+2024-03-16 13:00:59.1292 DEBUG Connection id "0HN25M2P2S6HR" stopped.

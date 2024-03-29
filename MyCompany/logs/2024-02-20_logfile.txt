@@ -1,0 +1,1212 @@
+2024-02-20 16:07:24.5370 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-02-20 16:07:25.1966 DEBUG Hosting starting
+2024-02-20 16:07:25.7773 FATAL Application startup exception
+2024-02-20 16:14:00.9510 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-02-20 16:14:01.5840 DEBUG Hosting starting
+2024-02-20 16:14:01.7813 FATAL Application startup exception
+2024-02-20 16:24:23.3103 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-02-20 16:24:23.9890 DEBUG Hosting starting
+2024-02-20 16:24:26.1336 DEBUG Using development certificate: CN=localhost (Thumbprint: E8741D351F34657D9DE6785D746D0164F7EE0E23)
+2024-02-20 16:24:26.3387 INFO Now listening on: https://localhost:7219
+2024-02-20 16:24:26.3387 INFO Now listening on: http://localhost:5233
+2024-02-20 16:24:26.3387 DEBUG Loaded hosting startup assembly MyCompany
+2024-02-20 16:24:26.3387 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-02-20 16:24:26.3387 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-02-20 16:24:26.3387 INFO Application started. Press Ctrl+C to shut down.
+2024-02-20 16:24:26.3405 INFO Hosting environment: Development
+2024-02-20 16:24:26.3405 INFO Content root path: C:\Users\Korisnik\source\repos\MyCompany\MyCompany\
+2024-02-20 16:24:26.3405 DEBUG Hosting started
+2024-02-20 16:24:26.5811 DEBUG Connection id "0HN1I5034TM22" accepted.
+2024-02-20 16:24:26.6298 DEBUG Connection id "0HN1I5034TM22" started.
+2024-02-20 16:24:26.6298 DEBUG Connection id "0HN1I5034TM22" received FIN.
+2024-02-20 16:24:26.7931 DEBUG Failed to authenticate HTTPS connection.
+2024-02-20 16:24:26.8169 DEBUG Connection id "0HN1I5034TM22" stopped.
+2024-02-20 16:24:26.8314 DEBUG Connection id "0HN1I5034TM22" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-20 16:24:39.3112 DEBUG Connection id "0HN1I5034TM23" accepted.
+2024-02-20 16:24:41.2686 DEBUG Connection id "0HN1I5034TM23" started.
+2024-02-20 16:24:53.0865 DEBUG Authentication of the HTTPS connection timed out.
+2024-02-20 16:24:53.0914 DEBUG Connection id "0HN1I5034TM23" stopped.
+2024-02-20 16:24:53.0914 DEBUG Connection id "0HN1I5034TM23" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-20 16:24:55.0725 DEBUG Connection id "0HN1I5034TM24" accepted.
+2024-02-20 16:24:55.1027 DEBUG Connection id "0HN1I5034TM24" started.
+2024-02-20 16:24:55.9738 DEBUG Connection 0HN1I5034TM24 established using the following protocol: Tls12
+2024-02-20 16:24:56.5300 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/index.html - -
+2024-02-20 16:24:56.8071 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-02-20 16:24:57.6735 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-02-20 16:24:58.6412 DEBUG Response markup was updated to include browser refresh script injection.
+2024-02-20 16:24:58.6572 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/index.html - - - 200 - text/html;charset=utf-8 2144.1175ms
+2024-02-20 16:25:00.0869 DEBUG Connection id "0HN1I5034TM24" received FIN.
+2024-02-20 16:25:00.4237 DEBUG Connection id "0HN1I5034TM25" accepted.
+2024-02-20 16:25:00.8371 DEBUG Connection id "0HN1I5034TM25" started.
+2024-02-20 16:25:01.4745 DEBUG Connection 0HN1I5034TM25 established using the following protocol: Tls12
+2024-02-20 16:25:01.7977 INFO Request starting HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - -
+2024-02-20 16:25:01.9448 INFO Request starting HTTP/2 GET https://localhost:7219/_vs/browserLink - -
+2024-02-20 16:25:01.9448 DEBUG Connection id "0HN1I5034TM24" is closed. The last processed stream ID was 1.
+2024-02-20 16:25:01.9448 DEBUG Connection id "0HN1I5034TM24" sending FIN because: "The client closed the connection."
+2024-02-20 16:25:02.4565 INFO Request finished HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 658.5421ms
+2024-02-20 16:25:03.8959 DEBUG Connection id "0HN1I5034TM26" received FIN.
+2024-02-20 16:25:03.9252 DEBUG Connection id "0HN1I5034TM26" accepted.
+2024-02-20 16:25:03.9252 DEBUG Connection id "0HN1I5034TM26" started.
+2024-02-20 16:25:03.9252 DEBUG Failed to authenticate HTTPS connection.
+2024-02-20 16:25:03.9252 DEBUG Connection id "0HN1I5034TM26" stopped.
+2024-02-20 16:25:03.9351 DEBUG Connection id "0HN1I5034TM26" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-20 16:25:03.9351 DEBUG Connection id "0HN1I5034TM24" stopped.
+2024-02-20 16:25:06.0270 INFO Request finished HTTP/2 GET https://localhost:7219/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 4082.2525ms
+2024-02-20 16:25:06.3109 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - -
+2024-02-20 16:25:07.6204 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1309.4858ms
+2024-02-20 16:25:09.9663 DEBUG Connection id "0HN1I5034TM25" received FIN.
+2024-02-20 16:25:09.9663 DEBUG Connection id "0HN1I5034TM25" is closed. The last processed stream ID was 5.
+2024-02-20 16:25:09.9663 DEBUG Connection id "0HN1I5034TM25" sending FIN because: "The client closed the connection."
+2024-02-20 16:25:09.9663 DEBUG Connection id "0HN1I5034TM25" stopped.
+2024-02-20 16:25:16.1155 DEBUG Connection id "0HN1I5034TM27" accepted.
+2024-02-20 16:25:16.1155 DEBUG Connection id "0HN1I5034TM27" started.
+2024-02-20 16:25:16.1402 DEBUG Connection 0HN1I5034TM27 established using the following protocol: Tls12
+2024-02-20 16:25:16.1402 INFO Request starting HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - -
+2024-02-20 16:25:16.1402 INFO Request finished HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 0.9856ms
+2024-02-20 16:25:17.6756 INFO Request starting HTTP/2 GET https://localhost:7219/_vs/browserLink - -
+2024-02-20 16:25:17.8526 INFO Request finished HTTP/2 GET https://localhost:7219/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 176.9243ms
+2024-02-20 16:25:19.6817 DEBUG Connection id "0HN1I5034TM27" received FIN.
+2024-02-20 16:25:19.6903 DEBUG Connection id "0HN1I5034TM27" is closed. The last processed stream ID was 3.
+2024-02-20 16:25:19.6903 DEBUG Connection id "0HN1I5034TM27" sending FIN because: "The client closed the connection."
+2024-02-20 16:25:19.6903 DEBUG Connection id "0HN1I5034TM27" stopped.
+2024-02-20 16:25:20.3129 DEBUG Connection id "0HN1I5034TM28" accepted.
+2024-02-20 16:25:20.3129 DEBUG Connection id "0HN1I5034TM28" started.
+2024-02-20 16:25:20.3129 DEBUG Connection 0HN1I5034TM28 established using the following protocol: Tls12
+2024-02-20 16:25:20.3129 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - -
+2024-02-20 16:25:20.3362 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 15.2616ms
+2024-02-20 16:25:29.9822 DEBUG Connection id "0HN1I5034TM28" received FIN.
+2024-02-20 16:25:29.9822 DEBUG Connection id "0HN1I5034TM28" is closed. The last processed stream ID was 1.
+2024-02-20 16:25:29.9822 DEBUG Connection id "0HN1I5034TM28" sending FIN because: "The client closed the connection."
+2024-02-20 16:25:29.9973 DEBUG Connection id "0HN1I5034TM28" stopped.
+2024-02-20 16:25:31.0093 DEBUG Connection id "0HN1I5034TM29" accepted.
+2024-02-20 16:25:31.0282 DEBUG Connection id "0HN1I5034TM29" started.
+2024-02-20 16:25:31.0282 DEBUG Connection 0HN1I5034TM29 established using the following protocol: Tls12
+2024-02-20 16:25:31.0282 INFO Request starting HTTP/2 GET https://localhost:7219/api/companies - -
+2024-02-20 16:25:31.0498 DEBUG The request path  does not match the path filter
+2024-02-20 16:25:31.2108 DEBUG 1 candidate(s) found for the request path '/api/companies'
+2024-02-20 16:25:31.2243 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)' with route pattern 'api/companies' is valid for the request path '/api/companies'
+2024-02-20 16:25:31.2243 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:25:31.2243 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:25:31.2379 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:25:31.3256 INFO Route matched with {action = "GetCompanies", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCompanies() on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:25:31.3256 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:25:31.3256 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:25:31.3256 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:25:31.3256 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:25:31.3256 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:25:31.3256 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:25:32.8756 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-02-20 16:25:33.6599 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:25:38.0291 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:25:39.1308 DEBUG Compiling query expression: 
+'DbSet<Company>()
+    .AsNoTracking()
+    .OrderBy(c => c.Name)'
+2024-02-20 16:25:40.3841 DEBUG Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Company>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Company.Id (Guid) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Company.Address (string) Required MaxLength(60), 1], [Property: Company.Country (string) Required, 2], [Property: Company.Name (string) Required MaxLength(30), 3] }
+        SELECT c.CompanyId, c.Address, c.Country, c.Name
+        FROM Companies AS c
+        ORDER BY c.Name ASC), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Company>, 
+    Entities.RepositoryContext, 
+    False, 
+    False, 
+    True
+)'
+2024-02-20 16:25:40.6263 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:25:40.7612 DEBUG Created DbCommand for 'ExecuteReader' (143ms).
+2024-02-20 16:25:40.8157 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:25:42.1260 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:25:42.1862 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+ORDER BY [c].[Name]
+2024-02-20 16:25:42.5025 INFO Executed DbCommand (329ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+ORDER BY [c].[Name]
+2024-02-20 16:25:42.6648 DEBUG A data reader was disposed.
+2024-02-20 16:25:42.6930 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:25:42.7229 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:25:42.8936 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:25:42.9042 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:25:42.9042 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:25:42.9042 INFO Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Entities.DTOs.CompanyDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-02-20 16:25:43.5334 INFO Executed action MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany) in 12193.8671ms
+2024-02-20 16:25:43.5334 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:25:43.5563 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:25:43.5709 INFO Request finished HTTP/2 GET https://localhost:7219/api/companies - - - 200 559 application/json;+charset=utf-8 12529.2136ms
+2024-02-20 16:25:50.0409 DEBUG Connection id "0HN1I5034TM29" received FIN.
+2024-02-20 16:25:50.0490 DEBUG Connection id "0HN1I5034TM29" is closed. The last processed stream ID was 1.
+2024-02-20 16:25:50.0490 DEBUG Connection id "0HN1I5034TM29" sending FIN because: "The client closed the connection."
+2024-02-20 16:25:50.0598 DEBUG Connection id "0HN1I5034TM29" stopped.
+2024-02-20 16:27:03.5546 DEBUG Connection id "0HN1I5034TM2A" accepted.
+2024-02-20 16:27:03.6694 DEBUG Connection id "0HN1I5034TM2B" accepted.
+2024-02-20 16:27:03.6694 DEBUG Connection id "0HN1I5034TM2A" started.
+2024-02-20 16:27:03.7076 DEBUG Connection id "0HN1I5034TM2B" started.
+2024-02-20 16:27:03.7076 DEBUG Connection id "0HN1I5034TM2A" received FIN.
+2024-02-20 16:27:03.7173 DEBUG Failed to authenticate HTTPS connection.
+2024-02-20 16:27:03.7173 DEBUG Connection id "0HN1I5034TM2A" stopped.
+2024-02-20 16:27:03.7173 DEBUG Connection id "0HN1I5034TM2A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-20 16:27:03.7430 DEBUG Connection 0HN1I5034TM2B established using the following protocol: Tls12
+2024-02-20 16:27:03.7800 INFO Request starting HTTP/1.1 GET https://localhost:7219/api/companies - -
+2024-02-20 16:27:03.7800 DEBUG The request path  does not match the path filter
+2024-02-20 16:27:03.7800 DEBUG 1 candidate(s) found for the request path '/api/companies'
+2024-02-20 16:27:03.7800 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)' with route pattern 'api/companies' is valid for the request path '/api/companies'
+2024-02-20 16:27:03.7800 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:27:03.7800 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:27:03.7800 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:27:03.7800 INFO Route matched with {action = "GetCompanies", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCompanies() on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:27:03.7800 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:27:03.7800 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:27:03.7800 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:27:03.7800 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:27:03.7800 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:27:03.7800 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:27:03.8059 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:27:03.9156 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:27:03.9203 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:27:03.9203 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:27:03.9203 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:27:03.9203 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:27:03.9203 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+ORDER BY [c].[Name]
+2024-02-20 16:27:03.9203 INFO Executed DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+ORDER BY [c].[Name]
+2024-02-20 16:27:03.9203 DEBUG A data reader was disposed.
+2024-02-20 16:27:03.9203 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:27:03.9203 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:27:03.9203 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:27:03.9203 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:27:03.9203 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:27:03.9203 INFO Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Entities.DTOs.CompanyDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-02-20 16:27:03.9367 INFO Executed action MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany) in 151.9809ms
+2024-02-20 16:27:03.9367 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.GetCompanies (MyCompany)'
+2024-02-20 16:27:03.9367 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:27:03.9367 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:27:03.9367 INFO Request finished HTTP/1.1 GET https://localhost:7219/api/companies - - - 200 559 application/json;+charset=utf-8 157.4772ms
+2024-02-20 16:30:42.8901 DEBUG Connection id "0HN1I5034TM2C" accepted.
+2024-02-20 16:30:42.8901 DEBUG Connection id "0HN1I5034TM2C" started.
+2024-02-20 16:30:42.9242 DEBUG Connection 0HN1I5034TM2C established using the following protocol: Tls12
+2024-02-20 16:30:42.9242 INFO Request starting HTTP/2 POST https://localhost:7219/api/companies application/json-patch+json 179
+2024-02-20 16:30:42.9242 DEBUG POST requests are not supported
+2024-02-20 16:30:42.9242 DEBUG The request has an origin header: 'https://localhost:7219'.
+2024-02-20 16:30:42.9242 INFO CORS policy execution successful.
+2024-02-20 16:30:42.9242 DEBUG 1 candidate(s) found for the request path '/api/companies'
+2024-02-20 16:30:42.9242 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)' with route pattern 'api/companies' is valid for the request path '/api/companies'
+2024-02-20 16:30:42.9242 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:30:42.9242 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:30:42.9242 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:30:42.9653 INFO Route matched with {action = "CreateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCompany(Entities.DTOs.CompanyForCreationDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:30:42.9653 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:30:42.9653 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:30:42.9653 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:30:42.9653 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:30:42.9653 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:30:42.9653 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:30:42.9653 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:30:42.9810 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:30:42.9810 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' using the name '' in request data ...
+2024-02-20 16:30:42.9810 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2024-02-20 16:30:42.9810 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2024-02-20 16:30:43.0081 DEBUG Connection id "0HN1I5034TM2C", Request id "0HN1I5034TM2C:00000001": started reading request body.
+2024-02-20 16:30:43.0081 DEBUG Connection id "0HN1I5034TM2C", Request id "0HN1I5034TM2C:00000001": done reading request body.
+2024-02-20 16:30:43.1368 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:30:43.1368 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:30:43.1368 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:30:43.1557 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:30:43.1767 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:30:43.2268 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Company"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.3163 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.3163 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Employee"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.3590 DEBUG Context 'RepositoryContext' started tracking 'Employee' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.3590 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:30:43.3737 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:30:43.3918 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:30:43.4263 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:30:43.4263 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:30:43.4263 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:30:43.4525 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:30:43.5376 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:30:43.5376 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:30:43.5567 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 60), @p2='?' (Size = 4000), @p3='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([CompanyId], [Address], [Country], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-20 16:30:43.6402 INFO Executed DbCommand (94ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 60), @p2='?' (Size = 4000), @p3='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([CompanyId], [Address], [Country], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-20 16:30:43.6402 DEBUG A data reader was disposed.
+2024-02-20 16:30:43.6402 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:30:43.6402 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:30:43.6402 DEBUG Executing DbCommand [Parameters=[@p4='?' (DbType = Guid), @p5='?' (DbType = Int32), @p6='?' (DbType = Guid), @p7='?' (Size = 30), @p8='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p4, @p5, @p6, @p7, @p8);
+2024-02-20 16:30:43.6647 INFO Executed DbCommand (14ms) [Parameters=[@p4='?' (DbType = Guid), @p5='?' (DbType = Int32), @p6='?' (DbType = Guid), @p7='?' (Size = 30), @p8='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p4, @p5, @p6, @p7, @p8);
+2024-02-20 16:30:43.6647 DEBUG A data reader was disposed.
+2024-02-20 16:30:43.6749 DEBUG Committing transaction.
+2024-02-20 16:30:43.6840 DEBUG Committed transaction.
+2024-02-20 16:30:43.6840 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:30:43.6840 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:30:43.6993 DEBUG Disposing transaction.
+2024-02-20 16:30:43.7269 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.7269 DEBUG An entity of type 'Employee' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:30:43.7344 DEBUG SaveChanges completed for 'RepositoryContext' with 2 entities written to the database.
+2024-02-20 16:30:43.7344 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:30:43.7344 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:30:43.7344 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:30:43.7344 INFO Executing CreatedAtRouteResult, writing value of type 'Entities.DTOs.CompanyDto'.
+2024-02-20 16:30:43.7772 DEBUG Found the endpoints MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2024-02-20 16:30:43.7884 DEBUG Successfully processed template api/companies/{id} for MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) resulting in /api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce and 
+2024-02-20 16:30:43.7884 DEBUG Link generation succeeded for endpoints MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) with result /api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce
+2024-02-20 16:30:43.7884 INFO Executed action MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany) in 826.6918ms
+2024-02-20 16:30:43.7884 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:30:43.7926 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:30:43.7926 INFO Request finished HTTP/2 POST https://localhost:7219/api/companies application/json-patch+json 179 - 201 103 application/json;+charset=utf-8 864.3490ms
+2024-02-20 16:30:50.4680 DEBUG Connection id "0HN1I5034TM2C" received FIN.
+2024-02-20 16:30:50.4680 DEBUG Connection id "0HN1I5034TM2C" is closed. The last processed stream ID was 1.
+2024-02-20 16:30:50.4680 DEBUG Connection id "0HN1I5034TM2C" sending FIN because: "The client closed the connection."
+2024-02-20 16:30:50.4680 DEBUG Connection id "0HN1I5034TM2C" stopped.
+2024-02-20 16:32:25.4880 INFO Request starting HTTP/1.1 POST https://localhost:7219/api/companies application/json 192
+2024-02-20 16:32:25.4880 DEBUG POST requests are not supported
+2024-02-20 16:32:25.4880 DEBUG 1 candidate(s) found for the request path '/api/companies'
+2024-02-20 16:32:25.4880 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)' with route pattern 'api/companies' is valid for the request path '/api/companies'
+2024-02-20 16:32:25.4880 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:25.4880 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:32:25.4880 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:25.4880 INFO Route matched with {action = "CreateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCompany(Entities.DTOs.CompanyForCreationDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:32:25.4880 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:32:25.4880 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:32:25.4880 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:32:25.4880 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:32:25.4880 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:32:25.4880 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:32:25.4880 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:32:25.4880 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:32:25.4880 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' using the name '' in request data ...
+2024-02-20 16:32:25.4880 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json'.
+2024-02-20 16:32:25.4880 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json'.
+2024-02-20 16:32:25.4880 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:00000003": started reading request body.
+2024-02-20 16:32:25.4880 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:00000003": done reading request body.
+2024-02-20 16:32:25.5084 DEBUG JSON input formatter threw an exception.
+2024-02-20 16:32:25.5084 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:25.5084 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:25.5084 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:32:25.5084 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:25.5434 ERROR CompanyForCreationDto object sent from client is null.
+2024-02-20 16:32:25.5434 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:32:25.5434 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:32:25.5434 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2024-02-20 16:32:25.5434 INFO Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-02-20 16:32:25.5434 INFO Executed action MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany) in 61.5016ms
+2024-02-20 16:32:25.5434 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:25.5434 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:32:25.5434 INFO Request finished HTTP/1.1 POST https://localhost:7219/api/companies application/json 192 - 400 - text/plain;+charset=utf-8 62.4120ms
+2024-02-20 16:32:54.4698 INFO Request starting HTTP/1.1 POST https://localhost:7219/api/companies application/json 190
+2024-02-20 16:32:54.4815 DEBUG POST requests are not supported
+2024-02-20 16:32:54.4815 DEBUG 1 candidate(s) found for the request path '/api/companies'
+2024-02-20 16:32:54.4815 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)' with route pattern 'api/companies' is valid for the request path '/api/companies'
+2024-02-20 16:32:54.4815 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:54.4815 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:32:54.4815 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:54.4815 INFO Route matched with {action = "CreateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCompany(Entities.DTOs.CompanyForCreationDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:32:54.4815 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:32:54.4815 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:32:54.4815 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:32:54.4815 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:32:54.4815 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:32:54.4815 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:32:54.4815 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:32:54.4815 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:32:54.4815 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' using the name '' in request data ...
+2024-02-20 16:32:54.4815 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json'.
+2024-02-20 16:32:54.4815 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json'.
+2024-02-20 16:32:54.4815 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:00000004": started reading request body.
+2024-02-20 16:32:54.4815 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:00000004": done reading request body.
+2024-02-20 16:32:54.4815 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:54.4815 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:54.4815 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto' ...
+2024-02-20 16:32:54.4815 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForCreationDto'.
+2024-02-20 16:32:54.5114 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:32:54.5114 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Company"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5114 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5114 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Employee"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5114 DEBUG Context 'RepositoryContext' started tracking 'Employee' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5114 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:32:54.5114 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:32:54.5114 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:32:54.5114 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:32:54.5114 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:32:54.5114 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:32:54.5114 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:32:54.5114 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:32:54.5114 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:32:54.5114 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 60), @p2='?' (Size = 4000), @p3='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([CompanyId], [Address], [Country], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-20 16:32:54.5114 INFO Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 60), @p2='?' (Size = 4000), @p3='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Companies] ([CompanyId], [Address], [Country], [Name])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-20 16:32:54.5114 DEBUG A data reader was disposed.
+2024-02-20 16:32:54.5306 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:32:54.5306 DEBUG Created DbCommand for 'ExecuteReader' (1ms).
+2024-02-20 16:32:54.5306 DEBUG Executing DbCommand [Parameters=[@p4='?' (DbType = Guid), @p5='?' (DbType = Int32), @p6='?' (DbType = Guid), @p7='?' (Size = 30), @p8='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p4, @p5, @p6, @p7, @p8);
+2024-02-20 16:32:54.5306 INFO Executed DbCommand (4ms) [Parameters=[@p4='?' (DbType = Guid), @p5='?' (DbType = Int32), @p6='?' (DbType = Guid), @p7='?' (Size = 30), @p8='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p4, @p5, @p6, @p7, @p8);
+2024-02-20 16:32:54.5306 DEBUG A data reader was disposed.
+2024-02-20 16:32:54.5306 DEBUG Committing transaction.
+2024-02-20 16:32:54.5306 DEBUG Committed transaction.
+2024-02-20 16:32:54.5306 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:32:54.5306 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:32:54.5306 DEBUG Disposing transaction.
+2024-02-20 16:32:54.5306 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5306 DEBUG An entity of type 'Employee' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:32:54.5306 DEBUG SaveChanges completed for 'RepositoryContext' with 2 entities written to the database.
+2024-02-20 16:32:54.5306 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:32:54.5306 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:32:54.5306 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:32:54.5306 INFO Executing CreatedAtRouteResult, writing value of type 'Entities.DTOs.CompanyDto'.
+2024-02-20 16:32:54.5306 DEBUG Found the endpoints MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2024-02-20 16:32:54.5306 DEBUG Successfully processed template api/companies/{id} for MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) resulting in /api/companies/404bfe0f-5478-455a-f6ec-08dc3228e6ce and 
+2024-02-20 16:32:54.5306 DEBUG Link generation succeeded for endpoints MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) with result /api/companies/404bfe0f-5478-455a-f6ec-08dc3228e6ce
+2024-02-20 16:32:54.5306 INFO Executed action MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany) in 48.8832ms
+2024-02-20 16:32:54.5306 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.CreateCompany (MyCompany)'
+2024-02-20 16:32:54.5306 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:32:54.5306 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:32:54.5306 INFO Request finished HTTP/1.1 POST https://localhost:7219/api/companies application/json 190 - 201 103 application/json;+charset=utf-8 69.3915ms
+2024-02-20 16:47:31.6289 DEBUG Connection id "0HN1I5034TM2D" accepted.
+2024-02-20 16:47:31.6698 DEBUG Connection id "0HN1I5034TM2D" started.
+2024-02-20 16:47:31.7206 DEBUG Connection 0HN1I5034TM2D established using the following protocol: Tls12
+2024-02-20 16:47:31.7528 INFO Request starting HTTP/2 GET https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce - -
+2024-02-20 16:47:31.7528 DEBUG The request path  does not match the path filter
+2024-02-20 16:47:31.7528 DEBUG 1 candidate(s) found for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce'
+2024-02-20 16:47:31.7528 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce'
+2024-02-20 16:47:31.7528 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:47:31.7528 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:47:31.7528 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:47:31.7675 INFO Route matched with {action = "GetCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:47:31.7675 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:47:31.7675 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:47:31.7772 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:47:31.7772 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:47:31.7772 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:47:31.7772 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:47:31.7772 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:47:31.7772 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:47:31.7772 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:47:31.7772 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:47:31.7772 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:47:31.7772 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:47:31.7772 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:47:31.7772 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:47:31.8038 DEBUG Compiling query expression: 
+'DbSet<Company>()
+    .Where(c => c.Id.Equals(__companyId_0))
+    .AsNoTracking()
+    .SingleOrDefault()'
+2024-02-20 16:47:31.9351 DEBUG Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<Company>(
+    asyncEnumerable: new SingleQueryingEnumerable<Company>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Company.Id (Guid) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Company.Address (string) Required MaxLength(60), 1], [Property: Company.Country (string) Required, 2], [Property: Company.Name (string) Required MaxLength(30), 3] }
+            SELECT TOP(2) c.CompanyId, c.Address, c.Country, c.Name
+            FROM Companies AS c
+            WHERE c.CompanyId == @__companyId_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Company>, 
+        Entities.RepositoryContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-02-20 16:47:31.9623 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:47:31.9623 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:47:31.9623 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:47:31.9754 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:47:31.9754 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:47:31.9909 INFO Executed DbCommand (15ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:47:31.9909 DEBUG A data reader was disposed.
+2024-02-20 16:47:31.9909 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:47:31.9909 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:47:31.9909 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:47:31.9909 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:47:31.9909 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:47:31.9909 INFO Executing OkObjectResult, writing value of type 'Entities.DTOs.CompanyDto'.
+2024-02-20 16:47:31.9909 INFO Executed action MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) in 216.0226ms
+2024-02-20 16:47:31.9909 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:47:31.9909 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:47:31.9909 INFO Request finished HTTP/2 GET https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce - - - 200 103 application/json;+charset=utf-8 240.9025ms
+2024-02-20 16:47:37.1690 DEBUG Connection id "0HN1I5034TM2D" received FIN.
+2024-02-20 16:47:37.1690 DEBUG Connection id "0HN1I5034TM2D" is closed. The last processed stream ID was 1.
+2024-02-20 16:47:37.1690 DEBUG Connection id "0HN1I5034TM2D" sending FIN because: "The client closed the connection."
+2024-02-20 16:47:37.1690 DEBUG Connection id "0HN1I5034TM2D" stopped.
+2024-02-20 16:48:10.2372 INFO Request starting HTTP/1.1 GET https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce - -
+2024-02-20 16:48:10.2372 DEBUG The request path  does not match the path filter
+2024-02-20 16:48:10.2372 DEBUG 1 candidate(s) found for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce'
+2024-02-20 16:48:10.2372 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce'
+2024-02-20 16:48:10.2372 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:48:10.2372 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:48:10.2372 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:48:10.2372 INFO Route matched with {action = "GetCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:48:10.2372 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:48:10.2372 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:48:10.2372 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:48:10.2372 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:48:10.2372 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:48:10.2372 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:48:10.2372 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:48:10.2372 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:48:10.2372 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:48:10.2372 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:48:10.2372 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:48:10.2372 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:48:10.2372 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:48:10.2372 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:48:10.2372 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:48:10.2372 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:48:10.2372 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:48:10.2372 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:48:10.2372 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:48:10.2540 INFO Executed DbCommand (8ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:48:10.2540 DEBUG A data reader was disposed.
+2024-02-20 16:48:10.2540 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:48:10.2540 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:48:10.2540 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:48:10.2540 DEBUG Attempting to select an output formatter based on Accept header '*/*'.
+2024-02-20 16:48:10.2540 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-02-20 16:48:10.2540 INFO Executing OkObjectResult, writing value of type 'Entities.DTOs.CompanyDto'.
+2024-02-20 16:48:10.2540 INFO Executed action MyCompany.Controllers.CompaniesController.GetCompany (MyCompany) in 10.7358ms
+2024-02-20 16:48:10.2540 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.GetCompany (MyCompany)'
+2024-02-20 16:48:10.2540 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:48:10.2540 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:48:10.2540 INFO Request finished HTTP/1.1 GET https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce - - - 200 103 application/json;+charset=utf-8 17.6060ms
+2024-02-20 16:51:14.2793 DEBUG Connection id "0HN1I5034TM2E" accepted.
+2024-02-20 16:51:14.2793 DEBUG Connection id "0HN1I5034TM2E" started.
+2024-02-20 16:51:14.2984 DEBUG Connection 0HN1I5034TM2E established using the following protocol: Tls12
+2024-02-20 16:51:14.2984 INFO Request starting HTTP/2 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - -
+2024-02-20 16:51:14.2984 DEBUG DELETE requests are not supported
+2024-02-20 16:51:14.2984 DEBUG The request has an origin header: 'https://localhost:7219'.
+2024-02-20 16:51:14.2984 INFO CORS policy execution successful.
+2024-02-20 16:51:14.2984 DEBUG 1 candidate(s) found for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:51:14.2984 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:51:14.2984 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:14.2984 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:51:14.2984 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:14.3121 INFO Route matched with {action = "DeleteCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:51:14.3121 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:51:14.3121 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:51:14.3121 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:51:14.3121 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:51:14.3121 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:51:14.3121 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:51:14.3121 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:51:14.3121 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:51:14.3121 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:51:14.3121 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:14.3121 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:14.3121 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:51:14.3121 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:14.3121 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:51:14.3121 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:51:14.3121 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:51:14.3121 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3121 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3121 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:51:14.3261 INFO Executed DbCommand (8ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:51:14.3261 DEBUG A data reader was disposed.
+2024-02-20 16:51:14.3261 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3261 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3261 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:51:14.3261 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:51:14.3261 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:51:14.3261 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:51:14.3261 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:51:14.3422 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3422 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.3422 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:51:14.3422 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:51:14.3422 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:51:14.3422 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:51:14.3422 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:51:14.3992 INFO Executed DbCommand (45ms) [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:51:14.4058 DEBUG A data reader was disposed.
+2024-02-20 16:51:14.4058 DEBUG Committing transaction.
+2024-02-20 16:51:14.4058 DEBUG Committed transaction.
+2024-02-20 16:51:14.4058 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.4058 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:14.4058 DEBUG Disposing transaction.
+2024-02-20 16:51:14.4214 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:51:14.4214 DEBUG SaveChanges completed for 'RepositoryContext' with 1 entities written to the database.
+2024-02-20 16:51:14.4414 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:51:14.4414 INFO Executed action MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany) in 128.9662ms
+2024-02-20 16:51:14.4414 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:14.4414 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:51:14.4414 INFO Request finished HTTP/2 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - - - 204 - - 141.5530ms
+2024-02-20 16:51:17.5738 DEBUG Connection id "0HN1I5034TM2E" received FIN.
+2024-02-20 16:51:17.5742 DEBUG Connection id "0HN1I5034TM2E" is closed. The last processed stream ID was 1.
+2024-02-20 16:51:17.5742 DEBUG Connection id "0HN1I5034TM2E" stopped.
+2024-02-20 16:51:17.5742 DEBUG Connection id "0HN1I5034TM2E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-20 16:51:46.9458 INFO Request starting HTTP/1.1 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - -
+2024-02-20 16:51:46.9861 DEBUG DELETE requests are not supported
+2024-02-20 16:51:46.9861 DEBUG 1 candidate(s) found for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:51:46.9861 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:51:46.9861 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:46.9861 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:51:46.9861 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:46.9861 INFO Route matched with {action = "DeleteCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:51:46.9861 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:51:46.9861 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:51:46.9861 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:51:46.9861 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:51:46.9861 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:51:46.9861 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:51:46.9861 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:51:46.9861 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:51:46.9861 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:51:46.9861 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:46.9861 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:46.9861 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:51:46.9861 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:51:46.9861 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:51:46.9861 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:51:46.9962 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:51:46.9962 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:46.9962 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:46.9962 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:51:46.9962 INFO Executed DbCommand (4ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:51:46.9962 DEBUG A data reader was disposed.
+2024-02-20 16:51:46.9962 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:46.9962 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:51:46.9962 INFO Company with id: 7a73074f-0a57-4e3d-2976-08dc28854a44 doesn't exist in the database.
+2024-02-20 16:51:46.9962 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:51:46.9962 DEBUG Attempting to select an output formatter based on Accept header '*/*' and explicitly specified content types 'application/problem+json, application/problem+xml, application/problem+json, application/problem+xml'. The content types in the accept header must be a subset of the explicitly set content types.
+2024-02-20 16:51:46.9962 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-02-20 16:51:46.9962 INFO Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-20 16:51:47.0446 INFO Executed action MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany) in 50.2968ms
+2024-02-20 16:51:47.0446 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:51:47.0446 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:51:47.0446 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:51:47.0446 INFO Request finished HTTP/1.1 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - - - 404 161 application/problem+json;+charset=utf-8 99.1300ms
+2024-02-20 16:52:25.5098 INFO Request starting HTTP/1.1 DELETE https://localhost:7219/api/companies/c9d4c053-49b6-410c-bc78-2d54a9991870 - -
+2024-02-20 16:52:25.5098 DEBUG DELETE requests are not supported
+2024-02-20 16:52:25.5403 DEBUG 1 candidate(s) found for the request path '/api/companies/c9d4c053-49b6-410c-bc78-2d54a9991870'
+2024-02-20 16:52:25.5403 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/c9d4c053-49b6-410c-bc78-2d54a9991870'
+2024-02-20 16:52:25.5403 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:52:25.5403 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:52:25.5403 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:52:25.5403 INFO Route matched with {action = "DeleteCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:52:25.5403 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:52:25.5403 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:52:25.5403 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:52:25.5403 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:52:25.5403 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:52:25.5403 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:52:25.5403 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:52:25.5403 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:52:25.5403 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:52:25.5403 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:52:25.5403 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:52:25.5403 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:52:25.5403 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:52:25.5431 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:52:25.5431 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:52:25.5431 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:52:25.5431 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:52:25.5431 INFO Executed DbCommand (6ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:52:25.5431 DEBUG A data reader was disposed.
+2024-02-20 16:52:25.5431 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:52:25.5431 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:52:25.5431 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:52:25.5431 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:52:25.5431 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:52:25.5431 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5431 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:52:25.5431 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:52:25.5431 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:52:25.5431 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:52:25.5431 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:52:25.5655 INFO Executed DbCommand (12ms) [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:52:25.5655 DEBUG A data reader was disposed.
+2024-02-20 16:52:25.5655 DEBUG Committing transaction.
+2024-02-20 16:52:25.5655 DEBUG Committed transaction.
+2024-02-20 16:52:25.5655 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5655 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:52:25.5655 DEBUG Disposing transaction.
+2024-02-20 16:52:25.6031 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:52:25.6031 DEBUG SaveChanges completed for 'RepositoryContext' with 1 entities written to the database.
+2024-02-20 16:52:25.6031 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:52:25.6031 INFO Executed action MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany) in 63.2352ms
+2024-02-20 16:52:25.6031 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:52:25.6031 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:52:25.6031 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:52:25.6031 INFO Request finished HTTP/1.1 DELETE https://localhost:7219/api/companies/c9d4c053-49b6-410c-bc78-2d54a9991870 - - - 204 - - 94.9622ms
+2024-02-20 16:53:09.5506 INFO Request starting HTTP/1.1 DELETE https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce  - -
+2024-02-20 16:53:09.5506 DEBUG DELETE requests are not supported
+2024-02-20 16:53:09.5506 DEBUG 1 candidate(s) found for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce '
+2024-02-20 16:53:09.5506 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce '
+2024-02-20 16:53:09.5506 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:53:09.5506 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:53:09.5506 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:53:09.5506 INFO Route matched with {action = "DeleteCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:53:09.5506 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:53:09.5506 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:53:09.5506 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:53:09.5506 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:53:09.5506 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:53:09.5506 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:53:09.5506 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:53:09.5506 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:53:09.5506 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:53:09.5506 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:53:09.5506 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:53:09.5506 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:53:09.5506 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:53:09.5506 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:53:09.5506 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:53:09.5506 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:53:09.5506 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:53:09.5506 INFO Executed DbCommand (4ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:53:09.5506 DEBUG A data reader was disposed.
+2024-02-20 16:53:09.5506 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:53:09.5506 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:53:09.5506 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:53:09.5506 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:53:09.5506 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:53:09.5506 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5506 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:53:09.5585 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:53:09.5585 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:53:09.5585 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:53:09.5585 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:53:09.5585 INFO Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Companies]
+WHERE [CompanyId] = @p0;
+SELECT @@ROWCOUNT;
+2024-02-20 16:53:09.5585 DEBUG A data reader was disposed.
+2024-02-20 16:53:09.5585 DEBUG Committing transaction.
+2024-02-20 16:53:09.5585 DEBUG Committed transaction.
+2024-02-20 16:53:09.5585 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5585 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:53:09.5585 DEBUG Disposing transaction.
+2024-02-20 16:53:09.5585 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:53:09.5585 DEBUG SaveChanges completed for 'RepositoryContext' with 1 entities written to the database.
+2024-02-20 16:53:09.5585 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:53:09.5585 INFO Executed action MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany) in 12.4047ms
+2024-02-20 16:53:09.5585 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:53:09.5585 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:53:09.5585 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:53:09.5585 INFO Request finished HTTP/1.1 DELETE https://localhost:7219/api/companies/5d070d19-9d8d-4f00-f6eb-08dc3228e6ce  - - - 204 - - 13.7646ms
+2024-02-20 16:54:01.2234 INFO Request starting HTTP/1.1 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - -
+2024-02-20 16:54:01.2234 DEBUG DELETE requests are not supported
+2024-02-20 16:54:01.2234 DEBUG 1 candidate(s) found for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:54:01.2234 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44'
+2024-02-20 16:54:01.2234 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:54:01.2234 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:54:01.2234 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:54:01.2234 INFO Route matched with {action = "DeleteCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCompany(System.Guid) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:54:01.2234 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:54:01.2234 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:54:01.2234 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:54:01.2234 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:54:01.2234 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:54:01.2234 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:54:01.2234 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:54:01.2234 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:54:01.2234 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:54:01.2234 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:54:01.2234 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:54:01.2234 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:54:01.2234 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:54:01.2234 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:54:01.2234 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:54:01.2234 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:54:01.2234 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:54:01.2234 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:54:01.2234 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:54:01.2358 INFO Executed DbCommand (6ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:54:01.2358 DEBUG A data reader was disposed.
+2024-02-20 16:54:01.2358 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:54:01.2358 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:54:01.2358 INFO Company with id: 7a73074f-0a57-4e3d-2976-08dc28854a44 doesn't exist in the database.
+2024-02-20 16:54:01.2358 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:54:01.2358 DEBUG Attempting to select an output formatter based on Accept header '*/*' and explicitly specified content types 'application/problem+json, application/problem+xml, application/problem+json, application/problem+xml'. The content types in the accept header must be a subset of the explicitly set content types.
+2024-02-20 16:54:01.2358 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-02-20 16:54:01.2358 INFO Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-20 16:54:01.2358 INFO Executed action MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany) in 7.7553ms
+2024-02-20 16:54:01.2358 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.DeleteCompany (MyCompany)'
+2024-02-20 16:54:01.2358 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:54:01.2358 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:54:01.2358 INFO Request finished HTTP/1.1 DELETE https://localhost:7219/api/companies/7a73074f-0a57-4e3d-2976-08dc28854a44 - - - 404 161 application/problem+json;+charset=utf-8 13.5666ms
+2024-02-20 16:55:39.4425 DEBUG Connection id "0HN1I5034TM2F" accepted.
+2024-02-20 16:55:39.4663 DEBUG Connection id "0HN1I5034TM2F" started.
+2024-02-20 16:55:39.5276 DEBUG Connection 0HN1I5034TM2F established using the following protocol: Tls12
+2024-02-20 16:55:39.5276 INFO Request starting HTTP/2 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json-patch+json 170
+2024-02-20 16:55:39.5276 DEBUG PUT requests are not supported
+2024-02-20 16:55:39.5276 DEBUG The request has an origin header: 'https://localhost:7219'.
+2024-02-20 16:55:39.5276 INFO CORS policy execution successful.
+2024-02-20 16:55:39.5276 DEBUG 1 candidate(s) found for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:55:39.5276 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:55:39.5276 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:55:39.5276 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:55:39.5276 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:55:39.5443 INFO Route matched with {action = "UpdateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateCompany(System.Guid, Entities.DTOs.CompanyForUpdateDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:55:39.5443 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:55:39.5443 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:55:39.5443 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:55:39.5443 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:55:39.5443 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:55:39.5443 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:55:39.5443 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:55:39.5443 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:55:39.5443 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:55:39.5443 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:55:39.5443 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:55:39.5443 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:55:39.5443 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:55:39.5443 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:55:39.5443 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' using the name '' in request data ...
+2024-02-20 16:55:39.5443 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2024-02-20 16:55:39.5443 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2024-02-20 16:55:39.5443 DEBUG Connection id "0HN1I5034TM2F", Request id "0HN1I5034TM2F:00000001": started reading request body.
+2024-02-20 16:55:39.5443 DEBUG Connection id "0HN1I5034TM2F", Request id "0HN1I5034TM2F:00000001": done reading request body.
+2024-02-20 16:55:39.5443 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:55:39.5443 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:55:39.5443 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:55:39.5443 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:55:39.5443 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:55:39.5443 DEBUG Compiling query expression: 
+'DbSet<Company>()
+    .Where(c => c.Id.Equals(__companyId_0))
+    .SingleOrDefault()'
+2024-02-20 16:55:39.5607 DEBUG Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<Company>(
+    asyncEnumerable: new SingleQueryingEnumerable<Company>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.SelectExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Company.Id (Guid) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Company.Address (string) Required MaxLength(60), 1], [Property: Company.Country (string) Required, 2], [Property: Company.Name (string) Required MaxLength(30), 3] }
+            SELECT TOP(2) c.CompanyId, c.Address, c.Country, c.Name
+            FROM Companies AS c
+            WHERE c.CompanyId == @__companyId_0), 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Company>, 
+        Entities.RepositoryContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-02-20 16:55:39.5607 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:55:39.5607 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:55:39.5607 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5607 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5607 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:55:39.5607 INFO Executed DbCommand (4ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:55:39.5607 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.5607 DEBUG A data reader was disposed.
+2024-02-20 16:55:39.5607 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5607 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5607 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:55:39.5607 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:55:39.5753 DEBUG The unchanged property 'Company.Address' was detected as changed and will be marked as modified. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-02-20 16:55:39.5753 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Unchanged' to 'Modified'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.5753 DEBUG The unchanged property 'Company.Country' was detected as changed and will be marked as modified. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-02-20 16:55:39.5753 DEBUG The unchanged property 'Company.Name' was detected as changed and will be marked as modified. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-02-20 16:55:39.5753 DEBUG 1 entities were added and 0 entities were removed from navigation 'Company.Employees'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.5902 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Employee"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.5902 DEBUG Context 'RepositoryContext' started tracking 'Employee' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.5902 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:55:39.5902 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5902 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.5902 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:55:39.5902 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:55:39.6061 DEBUG Executing update commands individually as the number of batchable commands (2) is smaller than the minimum batch size (4).
+2024-02-20 16:55:39.6061 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:55:39.6061 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:55:39.6061 DEBUG Executing DbCommand [Parameters=[@p3='?' (DbType = Guid), @p0='?' (Size = 60), @p1='?' (Size = 4000), @p2='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Companies] SET [Address] = @p0, [Country] = @p1, [Name] = @p2
+WHERE [CompanyId] = @p3;
+SELECT @@ROWCOUNT;
+2024-02-20 16:55:39.6061 INFO Executed DbCommand (9ms) [Parameters=[@p3='?' (DbType = Guid), @p0='?' (Size = 60), @p1='?' (Size = 4000), @p2='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Companies] SET [Address] = @p0, [Country] = @p1, [Name] = @p2
+WHERE [CompanyId] = @p3;
+SELECT @@ROWCOUNT;
+2024-02-20 16:55:39.6061 DEBUG A data reader was disposed.
+2024-02-20 16:55:39.6061 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:55:39.6061 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:55:39.6061 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:55:39.6232 INFO Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:55:39.6232 DEBUG A data reader was disposed.
+2024-02-20 16:55:39.6232 DEBUG Committing transaction.
+2024-02-20 16:55:39.6232 DEBUG Committed transaction.
+2024-02-20 16:55:39.6232 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.6232 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:55:39.6232 DEBUG Disposing transaction.
+2024-02-20 16:55:39.6232 DEBUG An entity of type 'Employee' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.6232 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Modified' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:55:39.6232 DEBUG SaveChanges completed for 'RepositoryContext' with 2 entities written to the database.
+2024-02-20 16:55:39.6232 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:55:39.6232 INFO Executed action MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany) in 79.9827ms
+2024-02-20 16:55:39.6232 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:55:39.6232 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:55:39.6232 INFO Request finished HTTP/2 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json-patch+json 170 - 204 - - 95.6481ms
+2024-02-20 16:55:58.0742 DEBUG Connection id "0HN1I5034TM2F" received FIN.
+2024-02-20 16:55:58.0742 DEBUG Connection id "0HN1I5034TM2F" is closed. The last processed stream ID was 1.
+2024-02-20 16:55:58.0742 DEBUG Connection id "0HN1I5034TM2F" sending FIN because: "The client closed the connection."
+2024-02-20 16:55:58.0742 DEBUG Connection id "0HN1I5034TM2F" stopped.
+2024-02-20 16:56:11.9351 INFO Request starting HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 - 0
+2024-02-20 16:56:11.9351 DEBUG PUT requests are not supported
+2024-02-20 16:56:11.9351 DEBUG 1 candidate(s) found for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:56:11.9351 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:56:11.9351 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:11.9351 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:56:11.9351 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:11.9351 INFO Route matched with {action = "UpdateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateCompany(System.Guid, Entities.DTOs.CompanyForUpdateDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:56:11.9351 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:56:11.9351 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:56:11.9351 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:56:11.9351 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:56:11.9351 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:56:11.9351 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:56:11.9351 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:56:11.9351 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:56:11.9351 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:56:11.9351 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:11.9351 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:11.9351 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:56:11.9351 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:11.9351 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:56:11.9351 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' using the name '' in request data ...
+2024-02-20 16:56:11.9351 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type '(null)'.
+2024-02-20 16:56:11.9351 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type '(null)'.
+2024-02-20 16:56:11.9351 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerInputFormatter' for content type '(null)'.
+2024-02-20 16:56:11.9351 DEBUG No input formatter was found to support the content type '(null)' for use with the [FromBody] attribute.
+2024-02-20 16:56:11.9351 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:11.9351 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:11.9351 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:56:11.9351 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:11.9351 DEBUG Request was short circuited at action filter 'Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter'.
+2024-02-20 16:56:11.9351 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter
+2024-02-20 16:56:11.9351 DEBUG Attempting to select an output formatter based on Accept header '*/*' and explicitly specified content types 'application/problem+json, application/problem+xml, application/problem+json, application/problem+xml'. The content types in the accept header must be a subset of the explicitly set content types.
+2024-02-20 16:56:11.9351 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/problem+json' to write the response.
+2024-02-20 16:56:11.9351 INFO Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-20 16:56:11.9351 INFO Executed action MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany) in 6.1188ms
+2024-02-20 16:56:11.9351 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:11.9351 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:56:11.9351 INFO Request finished HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 - 0 - 415 175 application/problem+json;+charset=utf-8 7.7033ms
+2024-02-20 16:56:51.5337 INFO Request starting HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json 181
+2024-02-20 16:56:51.5337 DEBUG PUT requests are not supported
+2024-02-20 16:56:51.5337 DEBUG 1 candidate(s) found for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:56:51.5337 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:56:51.5337 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:51.5337 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:56:51.5337 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:51.5337 INFO Route matched with {action = "UpdateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateCompany(System.Guid, Entities.DTOs.CompanyForUpdateDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:56:51.5337 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:56:51.5337 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:56:51.5337 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:56:51.5337 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:56:51.5337 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:56:51.5337 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:56:51.5337 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:56:51.5337 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:56:51.5337 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:56:51.5337 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:51.5337 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:51.5337 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:56:51.5337 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:56:51.5337 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:56:51.5337 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' using the name '' in request data ...
+2024-02-20 16:56:51.5337 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json'.
+2024-02-20 16:56:51.5337 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json'.
+2024-02-20 16:56:51.5337 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:0000000B": started reading request body.
+2024-02-20 16:56:51.5337 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:0000000B": done reading request body.
+2024-02-20 16:56:51.5337 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:51.5337 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:51.5337 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:56:51.5337 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:56:51.5337 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:56:51.5337 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:56:51.5337 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:56:51.5337 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5337 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5337 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:56:51.5454 INFO Executed DbCommand (5ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:56:51.5454 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:56:51.5454 DEBUG A data reader was disposed.
+2024-02-20 16:56:51.5454 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:56:51.5454 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:56:51.5454 DEBUG 1 entities were added and 0 entities were removed from navigation 'Company.Employees'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:56:51.5454 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Employee"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:56:51.5454 DEBUG Context 'RepositoryContext' started tracking 'Employee' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:56:51.5454 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:56:51.5454 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:56:51.5454 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:56:51.5454 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:56:51.5454 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:56:51.5454 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:56:51.5454 INFO Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:56:51.5454 DEBUG A data reader was disposed.
+2024-02-20 16:56:51.5454 DEBUG Committing transaction.
+2024-02-20 16:56:51.5454 DEBUG Committed transaction.
+2024-02-20 16:56:51.5454 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:56:51.5454 DEBUG Disposing transaction.
+2024-02-20 16:56:51.5454 DEBUG An entity of type 'Employee' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:56:51.5454 DEBUG SaveChanges completed for 'RepositoryContext' with 1 entities written to the database.
+2024-02-20 16:56:51.5454 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:56:51.5454 INFO Executed action MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany) in 19.4018ms
+2024-02-20 16:56:51.5454 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:56:51.5454 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:56:51.5454 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:56:51.5454 INFO Request finished HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json 181 - 204 - - 23.9272ms
+2024-02-20 16:57:51.2281 INFO Request starting HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json 179
+2024-02-20 16:57:51.2351 DEBUG PUT requests are not supported
+2024-02-20 16:57:51.2351 DEBUG 1 candidate(s) found for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:57:51.2351 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)' with route pattern 'api/companies/{id}' is valid for the request path '/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42'
+2024-02-20 16:57:51.2351 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:57:51.2351 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:57:51.2351 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:57:51.2351 INFO Route matched with {action = "UpdateCompany", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateCompany(System.Guid, Entities.DTOs.CompanyForUpdateDto) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:57:51.2351 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:57:51.2351 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:57:51.2351 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:57:51.2351 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:57:51.2351 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:57:51.2351 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:57:51.2351 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:57:51.2351 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:57:51.2351 DEBUG Attempting to bind parameter 'id' of type 'System.Guid' using the name 'id' in request data ...
+2024-02-20 16:57:51.2351 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:57:51.2351 DEBUG Done attempting to bind parameter 'id' of type 'System.Guid'.
+2024-02-20 16:57:51.2351 DEBUG Attempting to validate the bound parameter 'id' of type 'System.Guid' ...
+2024-02-20 16:57:51.2351 DEBUG Done attempting to validate the bound parameter 'id' of type 'System.Guid'.
+2024-02-20 16:57:51.2351 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:57:51.2351 DEBUG Attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' using the name '' in request data ...
+2024-02-20 16:57:51.2351 DEBUG Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json'.
+2024-02-20 16:57:51.2351 DEBUG Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json'.
+2024-02-20 16:57:51.2351 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:0000000C": started reading request body.
+2024-02-20 16:57:51.2351 DEBUG Connection id "0HN1I5034TM2B", Request id "0HN1I5034TM2B:0000000C": done reading request body.
+2024-02-20 16:57:51.2351 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:57:51.2351 DEBUG Done attempting to bind parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:57:51.2351 DEBUG Attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto' ...
+2024-02-20 16:57:51.2351 DEBUG Done attempting to validate the bound parameter 'company' of type 'Entities.DTOs.CompanyForUpdateDto'.
+2024-02-20 16:57:51.2351 INFO Entity Framework Core 6.0.1 initialized 'RepositoryContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-02-20 16:57:51.2351 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:57:51.2351 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:57:51.2351 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2351 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2351 DEBUG Executing DbCommand [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:57:51.2476 INFO Executed DbCommand (6ms) [Parameters=[@__companyId_0='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [c].[CompanyId], [c].[Address], [c].[Country], [c].[Name]
+FROM [Companies] AS [c]
+WHERE [c].[CompanyId] = @__companyId_0
+2024-02-20 16:57:51.2476 DEBUG Context 'RepositoryContext' started tracking 'Company' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2476 DEBUG A data reader was disposed.
+2024-02-20 16:57:51.2476 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2476 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2476 DEBUG SaveChanges starting for 'RepositoryContext'.
+2024-02-20 16:57:51.2476 DEBUG DetectChanges starting for 'RepositoryContext'.
+2024-02-20 16:57:51.2476 DEBUG The unchanged property 'Company.Name' was detected as changed and will be marked as modified. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-02-20 16:57:51.2476 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Unchanged' to 'Modified'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2476 DEBUG 1 entities were added and 0 entities were removed from navigation 'Company.Employees'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2476 DEBUG '"RepositoryContext"' generated a value for the property '"Id"."Employee"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2476 DEBUG Context 'RepositoryContext' started tracking 'Employee' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2476 DEBUG DetectChanges completed for 'RepositoryContext'.
+2024-02-20 16:57:51.2476 DEBUG Opening connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2476 DEBUG Opened connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2616 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2024-02-20 16:57:51.2616 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2024-02-20 16:57:51.2616 DEBUG Executing update commands individually as the number of batchable commands (2) is smaller than the minimum batch size (4).
+2024-02-20 16:57:51.2616 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:57:51.2616 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:57:51.2616 DEBUG Executing DbCommand [Parameters=[@p1='?' (DbType = Guid), @p0='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Companies] SET [Name] = @p0
+WHERE [CompanyId] = @p1;
+SELECT @@ROWCOUNT;
+2024-02-20 16:57:51.2616 INFO Executed DbCommand (5ms) [Parameters=[@p1='?' (DbType = Guid), @p0='?' (Size = 30)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Companies] SET [Name] = @p0
+WHERE [CompanyId] = @p1;
+SELECT @@ROWCOUNT;
+2024-02-20 16:57:51.2616 DEBUG A data reader was disposed.
+2024-02-20 16:57:51.2616 DEBUG Creating DbCommand for 'ExecuteReader'.
+2024-02-20 16:57:51.2616 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2024-02-20 16:57:51.2616 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:57:51.2616 INFO Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (DbType = Guid), @p3='?' (Size = 30), @p4='?' (Size = 20)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([EmployeeId], [Age], [CompanyId], [Name], [Position])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-02-20 16:57:51.2616 DEBUG A data reader was disposed.
+2024-02-20 16:57:51.2616 DEBUG Committing transaction.
+2024-02-20 16:57:51.2616 DEBUG Committed transaction.
+2024-02-20 16:57:51.2616 DEBUG Closing connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2616 DEBUG Closed connection to database 'CompanyEmployee' on server 'localhost'.
+2024-02-20 16:57:51.2616 DEBUG Disposing transaction.
+2024-02-20 16:57:51.2616 DEBUG An entity of type 'Employee' tracked by 'RepositoryContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2616 DEBUG An entity of type 'Company' tracked by 'RepositoryContext' changed state from 'Modified' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-02-20 16:57:51.2616 DEBUG SaveChanges completed for 'RepositoryContext' with 2 entities written to the database.
+2024-02-20 16:57:51.2616 INFO Executing StatusCodeResult, setting HTTP status code 204
+2024-02-20 16:57:51.2616 INFO Executed action MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany) in 35.5705ms
+2024-02-20 16:57:51.2616 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.UpdateCompany (MyCompany)'
+2024-02-20 16:57:51.2616 DEBUG Connection id "0HN1I5034TM2B" completed keep alive response.
+2024-02-20 16:57:51.2616 DEBUG 'RepositoryContext' disposed.
+2024-02-20 16:57:51.2616 INFO Request finished HTTP/1.1 PUT https://localhost:7219/api/companies/e65dc19f-3c1e-4bf1-e26d-08dc2ed98f42 application/json 179 - 204 - - 48.3140ms
+2024-02-20 16:58:38.3695 DEBUG Connection id "0HN1I5034TM2G" accepted.
+2024-02-20 16:58:38.3695 DEBUG Connection id "0HN1I5034TM2G" started.
+2024-02-20 16:58:38.4325 DEBUG Connection 0HN1I5034TM2G established using the following protocol: Tls12
+2024-02-20 16:58:38.4336 INFO Request starting HTTP/2 GET https://localhost:7219/api/companies/collection/({ids}) - -
+2024-02-20 16:58:38.4336 DEBUG The request path  does not match the path filter
+2024-02-20 16:58:38.4336 DEBUG 1 candidate(s) found for the request path '/api/companies/collection/({ids})'
+2024-02-20 16:58:38.4336 DEBUG Endpoint 'MyCompany.Controllers.CompaniesController.GetCompanyCollection (MyCompany)' with route pattern 'api/companies/collection/({ids})' is valid for the request path '/api/companies/collection/({ids})'
+2024-02-20 16:58:38.4336 DEBUG Request matched endpoint 'MyCompany.Controllers.CompaniesController.GetCompanyCollection (MyCompany)'
+2024-02-20 16:58:38.4336 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-02-20 16:58:38.4336 INFO Executing endpoint 'MyCompany.Controllers.CompaniesController.GetCompanyCollection (MyCompany)'
+2024-02-20 16:58:38.4336 INFO Route matched with {action = "GetCompanyCollection", controller = "Companies"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCompanyCollection(System.Collections.Generic.IEnumerable`1[System.Guid]) on controller MyCompany.Controllers.CompaniesController (MyCompany).
+2024-02-20 16:58:38.4336 DEBUG Execution plan of authorization filters (in the following order): None
+2024-02-20 16:58:38.4336 DEBUG Execution plan of resource filters (in the following order): None
+2024-02-20 16:58:38.4336 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2024-02-20 16:58:38.4336 DEBUG Execution plan of exception filters (in the following order): None
+2024-02-20 16:58:38.4336 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-02-20 16:58:38.4336 DEBUG Executing controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:58:38.4336 DEBUG Executed controller factory for controller MyCompany.Controllers.CompaniesController (MyCompany)
+2024-02-20 16:58:38.4336 DEBUG Attempting to bind parameter 'ids' of type 'System.Collections.Generic.IEnumerable`1[System.Guid]' ...
+2024-02-20 16:59:10.2837 INFO Executed action MyCompany.Controllers.CompaniesController.GetCompanyCollection (MyCompany) in 31836.7979ms
+2024-02-20 16:59:10.2837 INFO Executed endpoint 'MyCompany.Controllers.CompaniesController.GetCompanyCollection (MyCompany)'
+2024-02-20 16:59:10.2959 ERROR An unhandled exception has occurred while executing the request.
+2024-02-20 16:59:10.4321 INFO Request finished HTTP/2 GET https://localhost:7219/api/companies/collection/({ids}) - - - 500 - text/plain;+charset=utf-8 31998.5110ms
+2024-02-20 16:59:13.3576 DEBUG Connection id "0HN1I5034TM2G" received FIN.
+2024-02-20 16:59:13.3576 DEBUG Connection id "0HN1I5034TM2G" is closed. The last processed stream ID was 1.
+2024-02-20 16:59:13.3576 DEBUG Connection id "0HN1I5034TM2G" sending FIN because: "The client closed the connection."
+2024-02-20 16:59:13.3576 DEBUG Connection id "0HN1I5034TM2G" stopped.

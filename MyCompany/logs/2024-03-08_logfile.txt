@@ -1,0 +1,36 @@
+2024-03-08 12:43:54.7523 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-08 12:43:55.1926 DEBUG Hosting starting
+2024-03-08 12:43:57.4159 DEBUG Using development certificate: CN=localhost (Thumbprint: E8741D351F34657D9DE6785D746D0164F7EE0E23)
+2024-03-08 12:43:57.6556 INFO Now listening on: https://localhost:7219
+2024-03-08 12:43:57.6556 INFO Now listening on: http://localhost:5233
+2024-03-08 12:43:57.6556 DEBUG Loaded hosting startup assembly MyCompany
+2024-03-08 12:43:57.6556 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-08 12:43:57.6556 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-08 12:43:57.6556 INFO Application started. Press Ctrl+C to shut down.
+2024-03-08 12:43:57.6556 INFO Hosting environment: Development
+2024-03-08 12:43:57.6556 INFO Content root path: C:\Users\Korisnik\source\repos\MyCompany\MyCompany\
+2024-03-08 12:43:57.6556 DEBUG Hosting started
+2024-03-08 12:43:57.8600 DEBUG Connection id "0HN1VCK56FJVG" received FIN.
+2024-03-08 12:43:57.8938 DEBUG Connection id "0HN1VCK56FJVG" accepted.
+2024-03-08 12:43:57.8938 DEBUG Connection id "0HN1VCK56FJVG" started.
+2024-03-08 12:43:58.0538 DEBUG Failed to authenticate HTTPS connection.
+2024-03-08 12:43:58.1017 DEBUG Connection id "0HN1VCK56FJVG" stopped.
+2024-03-08 12:43:58.1360 DEBUG Connection id "0HN1VCK56FJVG" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-08 12:44:00.9804 DEBUG Connection id "0HN1VCK56FJVH" accepted.
+2024-03-08 12:44:01.9419 DEBUG Connection id "0HN1VCK56FJVH" started.
+2024-03-08 12:44:03.0300 DEBUG Connection 0HN1VCK56FJVH established using the following protocol: Tls12
+2024-03-08 12:44:03.9004 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/index.html - -
+2024-03-08 12:44:04.7981 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-03-08 12:44:07.4541 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-03-08 12:44:12.1742 INFO Request starting HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - -
+2024-03-08 12:44:12.2059 DEBUG Response markup was updated to include browser refresh script injection.
+2024-03-08 12:44:12.2711 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/index.html - - - 200 - text/html;charset=utf-8 8426.0849ms
+2024-03-08 12:44:12.4401 INFO Request finished HTTP/2 GET https://localhost:7219/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 85.9189ms
+2024-03-08 12:44:14.4200 INFO Request starting HTTP/2 GET https://localhost:7219/_vs/browserLink - -
+2024-03-08 12:44:15.5125 INFO Request finished HTTP/2 GET https://localhost:7219/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1092.4753ms
+2024-03-08 12:44:15.9372 INFO Request starting HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - -
+2024-03-08 12:44:17.1032 INFO Request finished HTTP/2 GET https://localhost:7219/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1165.9826ms
+2024-03-08 12:44:20.3884 DEBUG Connection id "0HN1VCK56FJVH" received FIN.
+2024-03-08 12:44:20.4322 DEBUG Connection id "0HN1VCK56FJVH" is closed. The last processed stream ID was 7.
+2024-03-08 12:44:20.4322 DEBUG Connection id "0HN1VCK56FJVH" sending FIN because: "The client closed the connection."
+2024-03-08 12:44:20.4377 DEBUG Connection id "0HN1VCK56FJVH" stopped.
